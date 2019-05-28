@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559056752 source:c:\users\alumno\desktop\clase-archivos-28-5\archivos y parser\main.c
+	<stdio.h>
+	<stdlib.h>
+
